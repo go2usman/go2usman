@@ -10,10 +10,10 @@
 <hr/>
 
 <div align="center">
-<p><img align="left" width="32.2%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=github-usman&show_icons=true&locale=en&layout=compact" alt="github-usman" /></p>
+<p><img align="left" width="32.2%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=go2usman&show_icons=true&locale=en&layout=compact" alt="go2usman" /></p>
 
 
-<p ><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=github-usman&" alt="github-usman" /></p>
+<p ><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=go2usman&" alt="go2usman" /></p>
 <div/>
 
   <!-- background   images -->
