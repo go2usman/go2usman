@@ -18,12 +18,12 @@ I don't just write code—I build and ship production SaaS and AI products that 
 ## 🛠️ Tech Stack & Production Expertise
 
 ### 💻 Product & Application Engineering
-* **Frontend & Apps:** React, Next.js, Vite, React Native, TypeScript, Tailwind CSS, HTML5/CSS3
-* **Backend & APIs:** Node.js, NestJS, TypeScript, RESTful APIs, GraphQL, tRPC, WebSockets
-* **Databases & CMS:** PostgreSQL, MongoDB, Supabase, Prisma ORM, Redis, Payload CMS, WordPress
+* **Frontend & Apps:** React, Next.js, Vite, React Native, TypeScript, Tailwind CSS, HTML5/CSS3,etc
+* **Backend & APIs:** Node.js, NestJS, TypeScript, RESTful APIs, GraphQL, tRPC, WebSockets,etc
+* **Databases & CMS:** PostgreSQL, MongoDB, Supabase, Prisma ORM, Redis, Payload CMS, WordPress, payload,ghost,etc
 
 ### 🤖 AI, Automation & Communications
-* **Generative AI:** OpenAI API, GenAI, LLM Orchestration Pipelines, RAG, AI Assistants
+* **Generative AI:** OpenAI API, GenAI, LLM Orchestration Pipelines, RAG, AI Assistants,n8n, claude api, etc
 * **Voice & Agents:** **AI Voice Agents (Vapi / Retell AI)**, Conversational AI workflows
 * **Real-time Comm:** **Twilio (SMS/Voice)**, **WhatsApp Business API**, Push Notifications
 
