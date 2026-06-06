@@ -17,15 +17,26 @@ I don't just write code—I build and ship production SaaS and AI products that 
 
 ## 🛠️ Tech Stack & Production Expertise
 
-| Layer | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Vite, React Native, TypeScript, Tailwind CSS, HTML5/CSS3 |
-| **Backend & APIs** | Node.js, NestJS, TypeScript, RESTful APIs, GraphQL, tRPC |
-| **Databases & CMS** | PostgreSQL, MongoDB, Supabase, Payload CMS, Prisma, Redis |
-| **AI & Automation** | GenAI, OpenAI API, LLM Pipelines, **AI Voice Agents (Vapi/Retell)**, AI Assistants |
-| **Communications** | **Twilio (SMS/Voice)**, **WhatsApp Business API**, Push Notifications |
-| **SaaS Infrastructure**| **Stripe (Subscriptions & Usage Billing)**, Razorpay, PDF/Analytics Reporting |
-| **DevOps & Tools** | AWS S3, Nx Monorepo, WXT (Browser Extensions), Git/GitHub, WordPress |
+### 💻 Product & Application Engineering
+* **Frontend & Apps:** React, Next.js, Vite, React Native, TypeScript, Tailwind CSS, HTML5/CSS3
+* **Backend & APIs:** Node.js, NestJS, TypeScript, RESTful APIs, GraphQL, tRPC, WebSockets
+* **Databases & CMS:** PostgreSQL, MongoDB, Supabase, Prisma ORM, Redis, Payload CMS, WordPress
+
+### 🤖 AI, Automation & Communications
+* **Generative AI:** OpenAI API, GenAI, LLM Orchestration Pipelines, RAG, AI Assistants
+* **Voice & Agents:** **AI Voice Agents (Vapi / Retell AI)**, Conversational AI workflows
+* **Real-time Comm:** **Twilio (SMS/Voice)**, **WhatsApp Business API**, Push Notifications
+
+### ☁️ DevOps, Cloud Infrastructure & CI/CD
+* **Infrastructure as Code:** **Terraform** (Declarative, reproducible environments)
+* **Cloud Platforms:** **AWS (EC2, S3, RDS, Route53, Amplify)**
+* **Containerization:** **Docker** (Multi-stage builds, local-to-cloud parity)
+* **CI/CD & Hosting:** Automated Delivery Pipelines (**GitHub Actions / CI/CD**), **Vercel**, Netlify
+* **Monorepos & Tools:** Nx Monorepo, WXT (Browser Extensions), Git/GitHub
+
+### 💳 SaaS Essentials
+* **Payments & Billing:** **Stripe** (Subscriptions, Metered/Usage-Based Billing, Webhooks), Razorpay
+* **Reporting:** PDF Generation Engines, Automated Analytics, Dynamic Admin Dashboards
 
 ---
 
