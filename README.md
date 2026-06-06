@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/github-usman/github-usman/blob/main/FULL_STACK_DEVELOPER.gif)
-# Hi 👋, I'm Usman Ali Ansari 🚀
-### Freelance Full-Stack & AI Engineer for Startups
+# Hi 👋, I'm Usman 🚀
+### Full-Stack & AI Engineer for Startups
 
 I don't just write code—I build and ship production SaaS and AI products that drive business value. With over 3 years of experience across health-tech, legal-tech, HR-tech, and e-commerce, I specialize in taking ideas from 0 to 1 with the speed and reliability early-stage and funded teams need.
 
