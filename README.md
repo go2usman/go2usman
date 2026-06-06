@@ -53,8 +53,7 @@ I act as a **Senior Partner, not just a pair of hands**. I own the delivery pipe
 Whether you need an MVP built in weeks, AI features integrated into your current stack, or a founding engineer to scale your product from scratch—let's talk.
 
 * 📧 **Email:** [ansariusman.dev@gmail.com](mailto:ansariusman.dev@gmail.com)
-* 🌐 **Portfolio:** [freelance.go2usman.xyz](https://freelance.go2usman.xyz/)
-* 💼 **Connect on LinkedIn:** [LinkedIn](https://www.linkedin.com/) *(Replace with your actual link)*
+* 💼 **Connect on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/go2usman/)
 
 ---
 
